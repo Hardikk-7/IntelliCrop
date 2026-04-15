@@ -285,8 +285,13 @@ InteliCrop/
 *Run the app with `streamlit run app.py` to see the beautiful interactive dashboard!*
 
 - **Home Page** — Overview of the system with quick stats
+- <img width="1918" height="995" alt="image" src="https://github.com/user-attachments/assets/fddc20c7-02f7-4944-a791-0964b05a7706" />
+
 - **Predict Crop** — Interactive sliders for input parameters with confidence charts
+- <img width="1916" height="991" alt="image" src="https://github.com/user-attachments/assets/db01cb46-0e7a-46bf-b67c-7cf47f747519" />
+
 - **Model Analysis** — Comparative accuracy charts and confusion matrices
+- 
 - **Dataset Explorer** — Interactive histograms, radar charts, and correlation heatmaps
 
 ---
@@ -303,11 +308,8 @@ Contributions are welcome! Here's how:
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
----
 
 <div align="center">
 
